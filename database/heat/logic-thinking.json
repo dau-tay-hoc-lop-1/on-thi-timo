@@ -182,7 +182,7 @@
     "choices": [
       {
         "id": "A",
-        "vi": "Thứ Ba",
+        "vi": "Thứ Năm",
         "en": "Thursday"
       },
       {
@@ -197,7 +197,7 @@
       },
       {
         "id": "D",
-        "vi": "Thứ Năm",
+        "vi": "Thứ Ba",
         "en": "Tuesday"
       }
     ],
@@ -1559,8 +1559,8 @@
   },
   {
     "stem": {
-      "vi": "Bây giờ mẹ 30 tuổi, con 6 tuổi. Hỏi 6 năm trước, tuổi mẹ gấp mấy lần tuổi con?",
-      "en": "Mom is 30, the child is 6. How many times older was Mom than the child 6 years ago?"
+      "vi": "Bây giờ mẹ 30 tuổi, con 12 tuổi. Hỏi 6 năm trước, tuổi mẹ gấp mấy lần tuổi con?",
+      "en": "Mom is 30, the child is 12. How many times older was Mom than the child 6 years ago?"
     },
     "choices": [
       {
